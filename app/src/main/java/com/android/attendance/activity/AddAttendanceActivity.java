@@ -72,7 +72,7 @@ public class AddAttendanceActivity extends Activity {
 				arg1.setBackgroundColor(334455);
 				final StudentBean studentBean = studentBeanList.get(arg2);
 				final Dialog dialog = new Dialog(AddAttendanceActivity.this);
-				dialog.requestWindowFeature(Window.FEATURE_NO_TITLE);//...........
+				dialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
 				dialog.setContentView(R.layout.test_layout);
 				RadioGroup radioGroup;
 				RadioButton present;
@@ -86,10 +86,10 @@ public class AddAttendanceActivity extends Activity {
 					public void onCheckedChanged(RadioGroup group, int checkedId) {
 						if(checkedId == R.id.PresentradioButton) {
 							
-							status = "Check_In";
+							status = "P";
 						} else if(checkedId == R.id.AbsentradioButton) {
 
-							status = "Did_Not_Attend";
+							status = "A";
 						} else {
 						}
 					}
