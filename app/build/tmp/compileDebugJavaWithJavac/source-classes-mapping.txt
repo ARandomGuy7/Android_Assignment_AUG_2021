@@ -56,6 +56,11 @@ com/android/attendance/activity/LoginActivity.java
  com.android.attendance.activity.LoginActivity
  com.android.attendance.activity.LoginActivity$1
  com.android.attendance.activity.LoginActivity$2
+com/android/attendance/bean/AttendanceSessionBean.java
+ com.android.attendance.bean.AttendanceSessionBean
+com/android/attendance/activity/AddFacultyActivity.java
+ com.android.attendance.activity.AddFacultyActivity
+ com.android.attendance.activity.AddFacultyActivity$1
 com/android/attendance/activity/AddAttandanceSessionActivity.java
  com.android.attendance.activity.AddAttandanceSessionActivity
  com.android.attendance.activity.AddAttandanceSessionActivity$1
@@ -66,11 +71,6 @@ com/android/attendance/activity/AddAttandanceSessionActivity.java
  com.android.attendance.activity.AddAttandanceSessionActivity$6
  com.android.attendance.activity.AddAttandanceSessionActivity$7
  com.android.attendance.activity.AddAttandanceSessionActivity$8
-com/android/attendance/activity/AddFacultyActivity.java
- com.android.attendance.activity.AddFacultyActivity
- com.android.attendance.activity.AddFacultyActivity$1
-com/android/attendance/bean/AttendanceSessionBean.java
- com.android.attendance.bean.AttendanceSessionBean
 com/android/attendance/activity/AddAttendanceActivity.java
  com.android.attendance.activity.AddAttendanceActivity
  com.android.attendance.activity.AddAttendanceActivity$1
