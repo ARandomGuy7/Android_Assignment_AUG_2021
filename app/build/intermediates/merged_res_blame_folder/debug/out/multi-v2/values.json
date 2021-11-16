@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AndroidStudioProjects\\Android-Attendance-App-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\AndroidStudioProjects\\Android_Assignment_AUG_2021\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\limsh\\.gradle\\caches\\transforms-3\\597637047f865e36ca7d69d40c03462e\\transformed\\support-compat-26.1.0\\res\\values\\values.xml",
@@ -23,14 +23,31 @@
                     }
                 },
                 {
-                    "source": "D:\\AndroidStudioProjects\\Android-Attendance-App-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\AndroidStudioProjects\\Android_Assignment_AUG_2021\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "121,59,175",
+                        "endColumns": "52,60,52",
+                        "endOffsets": "169,115,223"
+                    },
+                    "to": {
+                        "startLines": "40,41,42",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "2437,2490,2551",
+                        "endColumns": "52,60,52",
+                        "endOffsets": "2485,2546,2599"
+                    }
+                },
+                {
+                    "source": "D:\\AndroidStudioProjects\\Android_Assignment_AUG_2021\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "6,15",
                         "startColumns": "4,4",
-                        "startOffsets": "186,510",
+                        "startOffsets": "192,525",
                         "endLines": "12,17",
                         "endColumns": "12,12",
-                        "endOffsets": "472,665"
+                        "endOffsets": "484,682"
                     },
                     "to": {
                         "startLines": "44,51",
@@ -42,13 +59,13 @@
                     }
                 },
                 {
-                    "source": "D:\\AndroidStudioProjects\\Android-Attendance-App-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "D:\\AndroidStudioProjects\\Android_Assignment_AUG_2021\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
                         "startLines": "3,4",
                         "startColumns": "4,4",
-                        "startOffsets": "89,147",
+                        "startOffsets": "92,151",
                         "endColumns": "57,55",
-                        "endOffsets": "142,198"
+                        "endOffsets": "145,202"
                     },
                     "to": {
                         "startLines": "9,10",
@@ -73,23 +90,6 @@
                         "startOffsets": "187,276,405,2307,3444,3620,3742,4004,4199",
                         "endColumns": "88,70,72,59,65,121,60,65,66",
                         "endOffsets": "271,342,473,2362,3505,3737,3798,4065,4261"
-                    }
-                },
-                {
-                    "source": "D:\\AndroidStudioProjects\\Android-Attendance-App-master\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "4,3,5",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "117,56,170",
-                        "endColumns": "52,60,52",
-                        "endOffsets": "165,112,218"
-                    },
-                    "to": {
-                        "startLines": "40,41,42",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "2437,2490,2551",
-                        "endColumns": "52,60,52",
-                        "endOffsets": "2485,2546,2599"
                     }
                 }
             ]

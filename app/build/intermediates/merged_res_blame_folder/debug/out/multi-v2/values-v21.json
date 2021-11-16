@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AndroidStudioProjects\\Android-Attendance-App-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "D:\\AndroidStudioProjects\\Android_Assignment_AUG_2021\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\limsh\\.gradle\\caches\\transforms-3\\fb0e5d26db575cb24846277a572a62c1\\transformed\\support-media-compat-26.1.0\\res\\values-v21\\values-v21.xml",
