@@ -112,8 +112,8 @@
             android:layout_alignParentRight="true"
             android:layout_marginRight="18dp"
             android:background="@drawable/roundedbutton"
-             android:textColor="#ffffff"
-            android:text="cancle" />
+            android:text="cancel"
+            android:textColor="#ffffff" />
 
         <Button
             android:id="@+id/RegisterButton"
